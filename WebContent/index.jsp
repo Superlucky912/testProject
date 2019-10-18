@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-유종훈
+<h1>유종훈</h1>
 </body>
 </html>
